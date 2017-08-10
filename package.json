@@ -1,6 +1,6 @@
 {
   "name": "sentence-type-classifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Classify English sentences into assertive, negative, interrogative, imperative and exclamatory based on grammar.",
   "main": "index.js",
   "scripts": {
