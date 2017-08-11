@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/varunon9/sentence-type-classifier/issues"
   },
-  "homepage": "https://github.com/varunon9/sentence-type-classifier#readme"
+  "homepage": "https://github.com/varunon9/sentence-type-classifier#readme",
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "dependencies": {
+    "natural": "^0.5.4"
+  }
 }

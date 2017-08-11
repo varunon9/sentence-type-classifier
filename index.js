@@ -1,1 +1,1 @@
-module.exports = require('./lib/classifier');
+module.exports = require("./lib/classifier");
