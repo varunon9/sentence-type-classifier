@@ -1,0 +1,166 @@
+[
+    {
+    	"sentence": "Please leave your footwear outside.",
+    	"type": "Imperative"
+    },
+    {
+    	"sentence": "Will you wait here?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "Where have you been all this while?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "We will not tolerate this.",
+    	"type": "Assertive"
+    },
+    {
+    	"sentence": "I am your friend.",
+    	"type": "Assertive"
+    },
+    {
+    	"sentence": "My sister lives in Mexico.",
+    	"type": "Assertive"
+    },
+    {
+    	"sentence": "What did you do then?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "Do be a bit more careful.",
+    	"type": "Imperative"
+    },
+    {
+    	"sentence": "Never speak to me like that again.",
+    	"type": "Imperative"
+    },
+    {
+    	"sentence": "Always remember what I told you.",
+    	"type": "Imperative"
+    },
+    {
+    	"sentence": "The ball rolled slowly into the goal.",
+    	"type": "Assertive"
+    },
+    {
+    	"sentence": "The dog went to the county fair.",
+    	"type": "Assertive"
+    },
+    {
+    	"sentence": "She saw the dog eat popcorn.",
+    	"type": "Assertive"
+    },
+    {
+    	"sentence": "Dogs don’t usually eat popcorn.",
+    	"type": "Negative"
+    },
+    {
+    	"sentence": "The popcorn was hot.",
+    	"type": "Assertive"
+    },
+    {
+    	"sentence": "I like popcorn.",
+    	"type": "Assertive"
+    },
+    {
+    	"sentence": "Why is the dog going to the county fair?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "Have you ever been to a county fair?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "What is your favorite snack?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "How do you make popcorn?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "Who cooks fresh popcorn around here?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "Where can I buy fresh popcorn?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "What is the best flavor of popcorn?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "When do you usually eat popcorn?.",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "Why do you let your dog eat popcorn?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "How is it?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "Is the popcorn delicious?",
+    	"type": "Interrogative"
+    },
+    {
+    	"sentence": "Have fun at the fair!",
+    	"type": "Imperative"
+    },
+    {
+    	"sentence": "Come to the fair with me!",
+    	"type": "Imperative"
+    },
+    {
+    	"sentence": "Feed the dog once per day.",
+    	"type": "Imperative"
+    },
+    {
+    	"sentence": "Please don’t give the dog popcorn.",
+    	"type": "Imperative"
+    },
+    {
+    	"sentence": "Stop feeding the dog!",
+    	"type": "Imperative"
+    },
+    {
+    	"sentence": "I can’t believe how fast the dog ran to the county fair!",
+    	"type": "Exclamatory"
+    },
+    {
+    	"sentence": "Wow, he must really love popcorn!",
+    	"type": "Exclamatory"
+    },
+    {
+    	"sentence": "That popcorn isn’t for dogs!",
+    	"type": "Exclamatory"
+    },
+    {
+    	"sentence": "My guests are not arriving now.",
+    	"type": "Negative"
+    },
+    {
+    	"sentence": "Jennie has no money.",
+    	"type": "Negative"
+    },
+    {
+    	"sentence": "Janetta doesn’t miss her mom.",
+    	"type": "Negative"
+    },
+    {
+    	"sentence": "I rarely go to the gym after work.",
+    	"type": "Negative"
+    },
+    {
+    	"sentence": "Nobody gets the day off.",
+    	"type": "Negative"
+    },
+    {
+    	"sentence": "Paul did not call me yesterday.",
+    	"type": "Negative"
+    }
+]

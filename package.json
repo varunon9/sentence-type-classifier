@@ -4,7 +4,7 @@
   "description": "Classify English sentences into assertive, negative, interrogative, imperative and exclamatory based on grammar.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/varunon9/sentence-type-classifier#readme",
   "devDependencies": {
+    "chai": "^4.1.1",
     "mocha": "^3.5.0"
   },
   "dependencies": {
