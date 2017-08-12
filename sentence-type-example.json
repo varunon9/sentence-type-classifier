@@ -13,7 +13,7 @@
     },
     {
     	"sentence": "We will not tolerate this.",
-    	"type": "Assertive"
+    	"type": "Negative"
     },
     {
     	"sentence": "I am your friend.",
@@ -92,7 +92,7 @@
     	"type": "Interrogative"
     },
     {
-    	"sentence": "When do you usually eat popcorn?.",
+    	"sentence": "When do you usually eat popcorn?",
     	"type": "Interrogative"
     },
     {
